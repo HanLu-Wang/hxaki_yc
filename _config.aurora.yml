@@ -50,7 +50,7 @@ menu:
      i18n:
        cn: '键政怪'
        en: 'JZMonster'
-     path: '/page/Politics'
+     path: '/source/_posts'
   # projects:
   #   name: 'Projects'
   #   i18n:
