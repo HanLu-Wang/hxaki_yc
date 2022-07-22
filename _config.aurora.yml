@@ -41,16 +41,16 @@ authors:
 #！ @docs https://obsidianext.tridiamond.tech/guide/menu.html
 #! ---------------------------------------------------------------
 menu:
-  About: true
-  Tags: true
-  Archives: true
+  About: false
+  Tags: false
+  Archives: false
   # Example custom menus:
-  # message-board:
-  #   name: 'MessageBoard'
-  #   i18n:
-  #     cn: '留言板'
-  #     en: 'Message Board'
-  #   path: '/page/message-board'
+  message-board:
+     name: '键政怪'
+     i18n:
+       cn: '键政怪'
+       en: 'JZMonster'
+     path: '/page/Politics'
   # projects:
   #   name: 'Projects'
   #   i18n:
